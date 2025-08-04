@@ -8,3 +8,4 @@ vm_ssh_public_key    = "ssh-rsa ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCaiwh2s+2l
 storage_account_name = "storageweek12capstone"
 key_vault_name       = "keyvault-week12-capstone"
 log_analytics_name   = "loganalytics-week12-capstone"
+app_service_name     = "webapp-week12-capstone"
