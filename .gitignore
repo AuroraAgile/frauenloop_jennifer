@@ -1,13 +1,9 @@
-# Terraform directories
+# Terraform generated directories
 .terraform/
 
-# Terraform state
+# Terraform state files (evita subirlos, incluso en entornos escolares)
 *.tfstate
 *.tfstate.backup
 
-# Sensitive variable files
-*.tfvars
-*.tfvars.json
-
-# Crash logs
+# Crash logs (innecesarios)
 crash.log
