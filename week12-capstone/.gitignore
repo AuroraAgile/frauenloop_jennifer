@@ -1,0 +1,9 @@
+# Terraform generated directories
+.terraform/
+
+# Terraform state files (evita subirlos, incluso en entornos escolares)
+*.tfstate
+*.tfstate.backup
+
+# Crash logs (innecesarios)
+crash.log
